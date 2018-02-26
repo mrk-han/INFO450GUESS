@@ -1,6 +1,11 @@
 # INFO450GUESS
 
-# Topics Covered: 2-D Arrays, Functions, Function Parmeters/Arguments, Conditional Statements
+## Topics Covered: 
+- 2-D Arrays
+- Functions
+- Function Parmeters/Arguments
+- Conditional Statements
+- Input Validation
 
 ## Functional Requirements:
 - Write a Program that builds an 8x8 board game with 5 pieces of hidden gold and 1 hidden BOMB.
@@ -15,8 +20,7 @@
 	- The player is asked if they want to play again.
 - If the player selects to play again, games starts over by presenting the hidden board.
 - The game will repeat for as long as the player wants to play.
-
-## Extra credit (10pts)
+### Extra credit (10pts)
 - Each piece of gold found rewards a user with an extra guess
 
 ## Non-Functional Requirements
