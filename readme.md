@@ -1,5 +1,7 @@
 # INFO450GUESS
 
+![Demo GIF of INFO450GUESS](https://github.com/mrk-han/INFO450GUESS/blob/master/INFO450GUESS_demo_2.gif)
+
 ## Topics Covered: 
 - 2-D Arrays
 - Functions
